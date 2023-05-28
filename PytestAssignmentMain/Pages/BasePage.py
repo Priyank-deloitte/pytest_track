@@ -27,7 +27,3 @@ class BasePage:
     def get_title(self, title):
         WebDriverWait(self.driver, 10).until(EC.title_is(title))
         return self.driver.title
-
-    # def get_current_url(self, current_url):
-    #     WebDriverWait(self.driver, 10).until(EC.url_to_be(current_url))
-    #     return self.driver.current_url

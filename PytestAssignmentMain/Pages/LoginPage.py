@@ -20,6 +20,6 @@ class LoginPage(BasePage):
         self.do_send_keys(self.PASSWORD, password)
         self.do_click(self.LOGIN_BTN)
 
-    def get_current_url(self, current_url):
-        return self.get_current_url(current_url)
+    def get_success_login_page_title(self, title):
+        return self.get_title(title)
 
