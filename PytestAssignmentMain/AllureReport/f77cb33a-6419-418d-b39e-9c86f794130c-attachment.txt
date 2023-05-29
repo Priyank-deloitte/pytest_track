@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_UserLandingPage:test_UserLandingPage.py:57 editing note for home
+[32mINFO    [0m Test_UserLandingPage:test_UserLandingPage.py:61 note edited for home successfully

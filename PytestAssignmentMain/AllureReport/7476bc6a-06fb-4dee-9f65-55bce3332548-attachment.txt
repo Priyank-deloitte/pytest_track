@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_LoginPage:test_login.py:19 creating object for login
+[32mINFO    [0m Test_LoginPage:test_login.py:21 login successfully

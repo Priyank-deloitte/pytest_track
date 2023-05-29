@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_SignupPage:test_signup.py:20 signing up new user
+[32mINFO    [0m Test_SignupPage:test_signup.py:24 new user created successfully

@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_Logout:test_LogoutDeleteAccount.py:21 deleting account
+[32mINFO    [0m Test_Logout:test_LogoutDeleteAccount.py:24 user account deleted permanently

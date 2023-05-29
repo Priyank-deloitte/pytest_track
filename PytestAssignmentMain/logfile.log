@@ -1,0 +1,133 @@
+05/29/2023 05:41:19 PM : INFO : Test_Logout : logging out
+05/29/2023 05:41:24 PM : INFO : Test_Logout : user logged out
+05/29/2023 05:41:30 PM : INFO : Test_Logout : deleting accoount
+05/29/2023 05:41:43 PM : INFO : Test_Logout : user account deleted permanently
+05/29/2023 05:42:26 PM : INFO : HomePage : Browser Launched
+05/29/2023 05:42:26 PM : INFO : HomePage : Check Signup Visibility
+05/29/2023 05:42:26 PM : INFO : HomePage : Browser Launched
+05/29/2023 05:42:26 PM : INFO : HomePage : Check Login Visibility
+05/29/2023 05:42:33 PM : INFO : HomePage : Browser Launched
+05/29/2023 05:42:36 PM : INFO : Test_LoginPage : creating object for login
+05/29/2023 05:42:36 PM : INFO : Test_LoginPage : login successfully
+05/29/2023 05:42:47 PM : INFO : Test_LoginPage : user successfully enters the landing page
+05/29/2023 05:42:58 PM : INFO : Test_SignupPage : signing up new user
+05/29/2023 05:42:58 PM : INFO : Test_SignupPage : new user created successfully
+05/29/2023 06:12:50 PM : INFO : Test_Logout : logging out
+05/29/2023 06:12:56 PM : INFO : Test_Logout : user logged out
+05/29/2023 06:12:57 PM : INFO : Test_ProfilePage : updating profile data
+05/29/2023 06:12:58 PM : INFO : Test_ProfilePage : profile data updated
+05/29/2023 06:13:00 PM : INFO : Test_Logout : deleting account
+05/29/2023 06:13:11 PM : INFO : Test_ProfilePage : updating profile data
+05/29/2023 06:13:11 PM : INFO : Test_ProfilePage : profile data updated
+05/29/2023 06:13:14 PM : INFO : Test_Logout : user account deleted permanently
+05/29/2023 06:13:22 PM : INFO : Test_UserLandingPage : adding note for work
+05/29/2023 06:13:24 PM : INFO : Test_ProfilePage : changing the password
+05/29/2023 06:13:25 PM : INFO : Test_UserLandingPage : note added for work successfully
+05/29/2023 06:13:25 PM : INFO : Test_ProfilePage : password changed successfully
+05/29/2023 06:13:36 PM : INFO : Test_UserLandingPage : adding note for personal
+05/29/2023 06:13:39 PM : INFO : Test_UserLandingPage : note added for personal successfully
+05/29/2023 06:13:55 PM : INFO : Test_UserLandingPage : adding note for home
+05/29/2023 06:13:58 PM : INFO : Test_UserLandingPage : note added for home successfully
+05/29/2023 06:14:00 PM : INFO : Test_UserLandingPage : editing note for home
+05/29/2023 06:14:03 PM : INFO : Test_UserLandingPage : note edited for home successfully
+05/29/2023 06:14:19 PM : INFO : Test_UserLandingPage : editing note for personal
+05/29/2023 06:14:22 PM : INFO : Test_UserLandingPage : note edited for personal successfully
+05/29/2023 06:14:23 PM : INFO : Test_UserLandingPage : editing note for work
+05/29/2023 06:14:26 PM : INFO : Test_UserLandingPage : note edited for work successfully
+05/29/2023 06:14:33 PM : INFO : HomePage : Browser Launched
+05/29/2023 06:14:33 PM : INFO : HomePage : Check Login Visibility
+05/29/2023 06:14:34 PM : INFO : Test_UserLandingPage : note marked completed
+05/29/2023 06:14:40 PM : INFO : HomePage : Browser Launched
+05/29/2023 06:14:40 PM : INFO : HomePage : Browser Launched
+05/29/2023 06:14:40 PM : INFO : HomePage : Check Signup Visibility
+05/29/2023 06:14:48 PM : INFO : Test_LoginPage : creating object for login
+05/29/2023 06:14:48 PM : INFO : Test_LoginPage : user successfully enters the landing page
+05/29/2023 06:14:48 PM : INFO : Test_LoginPage : login successfully
+05/29/2023 06:14:58 PM : INFO : Test_SearchPage : searching with the title
+05/29/2023 06:14:58 PM : INFO : Test_SearchPage : searching with the title
+05/29/2023 06:14:58 PM : INFO : Test_SearchPage : result not available
+05/29/2023 06:15:06 PM : INFO : Test_SignupPage : signing up new user
+05/29/2023 06:15:07 PM : INFO : Test_SignupPage : new user created successfully
+05/29/2023 06:25:03 PM : INFO : Test_Logout : logging out
+05/29/2023 06:25:09 PM : INFO : Test_Logout : user logged out
+05/29/2023 06:25:11 PM : INFO : Test_ProfilePage : updating profile data
+05/29/2023 06:25:11 PM : INFO : Test_ProfilePage : profile data updated
+05/29/2023 06:25:15 PM : INFO : Test_Logout : deleting account
+05/29/2023 06:25:25 PM : INFO : Test_ProfilePage : updating profile data
+05/29/2023 06:25:25 PM : INFO : Test_ProfilePage : profile data updated
+05/29/2023 06:25:27 PM : INFO : Test_Logout : user account deleted permanently
+05/29/2023 06:25:37 PM : INFO : Test_UserLandingPage : adding note for work
+05/29/2023 06:25:39 PM : INFO : Test_ProfilePage : changing the password
+05/29/2023 06:25:40 PM : INFO : Test_UserLandingPage : note added for work successfully
+05/29/2023 06:25:40 PM : INFO : Test_ProfilePage : password changed successfully
+05/29/2023 06:25:53 PM : INFO : Test_UserLandingPage : adding note for personal
+05/29/2023 06:25:56 PM : INFO : Test_UserLandingPage : note added for personal successfully
+05/29/2023 06:26:14 PM : INFO : Test_UserLandingPage : adding note for home
+05/29/2023 06:26:17 PM : INFO : Test_UserLandingPage : note added for home successfully
+05/29/2023 06:26:18 PM : INFO : Test_UserLandingPage : editing note for home
+05/29/2023 06:26:21 PM : INFO : Test_UserLandingPage : note edited for home successfully
+05/29/2023 06:26:39 PM : INFO : Test_UserLandingPage : editing note for personal
+05/29/2023 06:26:42 PM : INFO : Test_UserLandingPage : note edited for personal successfully
+05/29/2023 06:26:43 PM : INFO : Test_UserLandingPage : editing note for work
+05/29/2023 06:26:46 PM : INFO : Test_UserLandingPage : note edited for work successfully
+05/29/2023 06:26:54 PM : INFO : HomePage : Browser Launched
+05/29/2023 06:26:54 PM : INFO : HomePage : Check Login Visibility
+05/29/2023 06:26:56 PM : INFO : Test_UserLandingPage : note marked completed
+05/29/2023 06:27:03 PM : INFO : HomePage : Browser Launched
+05/29/2023 06:27:04 PM : INFO : HomePage : Browser Launched
+05/29/2023 06:27:04 PM : INFO : HomePage : Check Signup Visibility
+05/29/2023 06:27:12 PM : INFO : Test_LoginPage : creating object for login
+05/29/2023 06:27:13 PM : INFO : Test_LoginPage : login successfully
+05/29/2023 06:27:13 PM : INFO : Test_LoginPage : user successfully enters the landing page
+05/29/2023 06:27:25 PM : INFO : Test_SearchPage : searching with the title
+05/29/2023 06:27:26 PM : INFO : Test_SearchPage : searching with the title
+05/29/2023 06:27:26 PM : INFO : Test_SearchPage : result not available
+05/29/2023 06:27:45 PM : INFO : Test_SignupPage : signing up new user
+05/29/2023 06:27:46 PM : INFO : Test_SignupPage : new user created successfully
+05/29/2023 07:23:44 PM : INFO : Test_Logout : logging out
+05/29/2023 07:23:51 PM : INFO : Test_ProfilePage : updating profile data
+05/29/2023 07:23:52 PM : INFO : Test_ProfilePage : profile data updated
+05/29/2023 07:24:04 PM : INFO : Test_Logout : deleting account
+05/29/2023 07:24:06 PM : INFO : Test_ProfilePage : updating profile data
+05/29/2023 07:24:07 PM : INFO : Test_ProfilePage : profile data updated
+05/29/2023 07:24:19 PM : INFO : Test_ProfilePage : changing the password
+05/29/2023 07:24:20 PM : INFO : Test_ProfilePage : password changed successfully
+05/29/2023 07:24:32 PM : INFO : Test_UserLandingPage : adding note for work
+05/29/2023 07:24:35 PM : INFO : Test_UserLandingPage : note added for work successfully
+05/29/2023 07:24:48 PM : INFO : Test_UserLandingPage : adding note for personal
+05/29/2023 07:30:04 PM : INFO : Test_Logout : logging out
+05/29/2023 07:30:10 PM : INFO : Test_Logout : user logged out
+05/29/2023 07:30:12 PM : INFO : Test_ProfilePage : updating profile data
+05/29/2023 07:30:12 PM : INFO : Test_ProfilePage : profile data updated
+05/29/2023 07:30:15 PM : INFO : Test_Logout : deleting account
+05/29/2023 07:30:25 PM : INFO : Test_ProfilePage : updating profile data
+05/29/2023 07:30:25 PM : INFO : Test_ProfilePage : profile data updated
+05/29/2023 07:30:29 PM : INFO : Test_Logout : user account deleted permanently
+05/29/2023 07:30:37 PM : INFO : Test_UserLandingPage : adding note for work
+05/29/2023 07:30:41 PM : INFO : Test_UserLandingPage : note added for work successfully
+05/29/2023 07:30:41 PM : INFO : Test_ProfilePage : changing the password
+05/29/2023 07:30:42 PM : INFO : Test_ProfilePage : password changed successfully
+05/29/2023 07:30:53 PM : INFO : Test_UserLandingPage : adding note for personal
+05/29/2023 07:30:56 PM : INFO : Test_UserLandingPage : note added for personal successfully
+05/29/2023 07:31:16 PM : INFO : Test_UserLandingPage : adding note for home
+05/29/2023 07:31:18 PM : INFO : Test_UserLandingPage : editing note for home
+05/29/2023 07:31:19 PM : INFO : Test_UserLandingPage : note added for home successfully
+05/29/2023 07:31:41 PM : INFO : Test_UserLandingPage : editing note for personal
+05/29/2023 07:31:43 PM : INFO : Test_UserLandingPage : editing note for work
+05/29/2023 07:31:44 PM : INFO : Test_UserLandingPage : note edited for personal successfully
+05/29/2023 07:31:46 PM : INFO : Test_UserLandingPage : note edited for work successfully
+05/29/2023 07:31:54 PM : INFO : HomePage : Browser Launched
+05/29/2023 07:31:54 PM : INFO : HomePage : Check Login Visibility
+05/29/2023 07:31:57 PM : INFO : Test_UserLandingPage : note marked completed
+05/29/2023 07:32:03 PM : INFO : HomePage : Browser Launched
+05/29/2023 07:32:06 PM : INFO : HomePage : Browser Launched
+05/29/2023 07:32:06 PM : INFO : HomePage : Check Signup Visibility
+05/29/2023 07:32:12 PM : INFO : Test_LoginPage : creating object for login
+05/29/2023 07:32:12 PM : INFO : Test_LoginPage : login successfully
+05/29/2023 07:32:15 PM : INFO : Test_LoginPage : user successfully enters the landing page
+05/29/2023 07:32:23 PM : INFO : Test_SearchPage : searching with the title
+05/29/2023 07:32:24 PM : INFO : Test_SearchPage : result successfully fetched
+05/29/2023 07:32:26 PM : INFO : Test_SearchPage : searching with the title
+05/29/2023 07:32:26 PM : INFO : Test_SearchPage : result not available
+05/29/2023 07:32:33 PM : INFO : Test_SignupPage : signing up new user
+05/29/2023 07:32:34 PM : INFO : Test_SignupPage : new user created successfully

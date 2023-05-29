@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_ProfilePage:test_ProfilePage.py:19 updating profile data
+[32mINFO    [0m Test_ProfilePage:test_ProfilePage.py:22 profile data updated

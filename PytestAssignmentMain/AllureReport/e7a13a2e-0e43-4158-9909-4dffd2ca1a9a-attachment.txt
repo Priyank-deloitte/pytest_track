@@ -1,0 +1,2 @@
+[32mINFO    [0m HomePage:Homepage.py:16 Browser Launched
+[32mINFO    [0m HomePage:Homepage.py:23 Check Signup Visibility

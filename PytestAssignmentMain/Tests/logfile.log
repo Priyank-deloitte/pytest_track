@@ -1,0 +1,40 @@
+2023-05-29 15:37:45,612 : INFO : HomePage : Browser Launched
+2023-05-29 15:37:45,613 : INFO : HomePage : Check Login Visibility
+2023-05-29 15:37:50,902 : INFO : HomePage : Browser Launched
+2023-05-29 15:37:50,903 : INFO : HomePage : Check Signup Visibility
+2023-05-29 15:37:57,734 : INFO : HomePage : Browser Launched
+05/29/2023 04:36:04 PM : INFO : HomePage : Browser Launched
+05/29/2023 04:36:04 PM : INFO : HomePage : Check Login Visibility
+05/29/2023 04:36:10 PM : INFO : HomePage : Browser Launched
+05/29/2023 04:36:10 PM : INFO : HomePage : Check Signup Visibility
+05/29/2023 04:36:14 PM : INFO : HomePage : Browser Launched
+05/29/2023 05:45:30 PM : INFO : Test_UserLandingPage : adding note for home
+05/29/2023 05:45:33 PM : INFO : Test_UserLandingPage : note added for home successfully
+05/29/2023 05:45:45 PM : INFO : Test_UserLandingPage : adding note for home
+05/29/2023 05:45:48 PM : INFO : Test_UserLandingPage : note added for home successfully
+05/29/2023 05:45:59 PM : INFO : Test_UserLandingPage : adding note for work
+05/29/2023 05:46:02 PM : INFO : Test_UserLandingPage : note added for work successfully
+05/29/2023 05:46:15 PM : INFO : Test_UserLandingPage : adding note for personal
+05/29/2023 05:46:18 PM : INFO : Test_UserLandingPage : note added for personal successfully
+05/29/2023 05:46:39 PM : INFO : Test_UserLandingPage : editing note for home
+05/29/2023 05:46:42 PM : INFO : Test_UserLandingPage : note edited for home successfully
+05/29/2023 05:47:05 PM : INFO : Test_UserLandingPage : editing note for work
+05/29/2023 05:47:08 PM : INFO : Test_UserLandingPage : note edited for work successfully
+05/29/2023 05:47:30 PM : INFO : Test_UserLandingPage : editing note for personal
+05/29/2023 05:47:33 PM : INFO : Test_UserLandingPage : note edited for personal successfully
+05/29/2023 05:47:46 PM : INFO : Test_UserLandingPage : note marked completed
+05/29/2023 05:51:32 PM : INFO : HomePage : Browser Launched
+05/29/2023 05:51:32 PM : INFO : HomePage : Check Login Visibility
+05/29/2023 05:51:41 PM : INFO : HomePage : Browser Launched
+05/29/2023 05:51:41 PM : INFO : HomePage : Check Signup Visibility
+05/29/2023 05:51:50 PM : INFO : HomePage : Browser Launched
+05/29/2023 06:08:17 PM : INFO : HomePage : Browser Launched
+05/29/2023 06:08:17 PM : INFO : HomePage : Check Login Visibility
+05/29/2023 06:08:24 PM : INFO : HomePage : Browser Launched
+05/29/2023 06:08:24 PM : INFO : HomePage : Check Signup Visibility
+05/29/2023 06:08:30 PM : INFO : HomePage : Browser Launched
+05/29/2023 06:37:56 PM : INFO : HomePage : Browser Launched
+05/29/2023 06:37:56 PM : INFO : HomePage : Check Login Visibility
+05/29/2023 06:38:08 PM : INFO : HomePage : Browser Launched
+05/29/2023 06:38:08 PM : INFO : HomePage : Check Signup Visibility
+05/29/2023 06:38:17 PM : INFO : HomePage : Browser Launched

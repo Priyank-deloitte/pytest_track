@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_SearchPage:test_searchPage.py:24 searching with the title
+[32mINFO    [0m Test_SearchPage:test_searchPage.py:27 result not available

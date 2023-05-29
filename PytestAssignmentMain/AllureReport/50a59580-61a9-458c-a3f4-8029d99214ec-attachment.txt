@@ -1,0 +1,1 @@
+[32mINFO    [0m Test_LoginPage:test_login.py:27 user successfully enters the landing page

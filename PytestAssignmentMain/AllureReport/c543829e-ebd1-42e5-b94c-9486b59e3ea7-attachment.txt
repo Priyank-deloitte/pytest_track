@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_ProfilePage:test_ProfilePage.py:30 changing the password
+[32mINFO    [0m Test_ProfilePage:test_ProfilePage.py:33 password changed successfully

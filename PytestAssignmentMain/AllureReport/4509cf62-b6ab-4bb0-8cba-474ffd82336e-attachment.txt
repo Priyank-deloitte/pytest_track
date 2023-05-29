@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_Logout:test_LogoutDeleteAccount.py:14 logging out
+[32mINFO    [0m Test_Logout:test_LogoutDeleteAccount.py:17 user logged out

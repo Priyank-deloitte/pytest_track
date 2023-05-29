@@ -16,7 +16,7 @@ class ProfilePage(BasePage):
     FULL_NAME = (By.XPATH, "//input[@name='name']")
     UPDATE_PROFILE_BTN = (By.XPATH, "//button[text()='Update profile']")
     ALERT_MESSAGE = (By.XPATH, "//div[@data-testid='alert-message']")
-    CHANGE_PASSWORD_BTN =(By.XPATH, "//button[text()='Change password']")
+    CHANGE_PASSWORD_BTN = (By.XPATH, "//button[text()='Change password']")
     CURRENT_PASSWORD = (By.XPATH, "//input[@name='currentPassword']")
     NEW_PASSWORD = (By.XPATH, "//input[@name='newPassword']")
     CONFIRM_PASSWORD = (By.XPATH, "//input[@name='confirmPassword']")
@@ -27,7 +27,7 @@ class ProfilePage(BasePage):
         super().__init__(driver)
         self.driver.get(TestData.BaseUrl)
         self.login = LoginPage(self.driver)
-        self.login.do_login("priyankverma@deloitte.com", "Pass@123")
+        self.login.do_login("shashank@gmail.com", "Pass@123")
         # self.do_click(self.PROFILE_BTN)
 
     def do_update_profile(self, phoneNumber, companyName, fullName):
@@ -40,7 +40,6 @@ class ProfilePage(BasePage):
         self.do_send_keys(self.FULL_NAME, fullName)
         self.do_click(self.UPDATE_PROFILE_BTN)
 
-
     def get_alert_message(self):
         return self.get_element_text(self.ALERT_MESSAGE)
 
@@ -50,7 +49,8 @@ class ProfilePage(BasePage):
         self.do_send_keys(self.CURRENT_PASSWORD, currentPassword)
         self.do_send_keys(self.NEW_PASSWORD, newPassword)
         self.do_send_keys(self.CONFIRM_PASSWORD, newPassword)
-        self.do_click(self.UPDATE_PASSWORD_BTN)
+        updatePasswordButton = self.driver.find_element(By.XPATH, "//button[@data-testid='update-password']")
+        self.driver.execute_script("arguments[0].click()", updatePasswordButton)
 
     def get_password_change_alert_message(self):
         return self.get_element_text(self.PASSWORD_CHANGE_ALERT_MESSAGE)
