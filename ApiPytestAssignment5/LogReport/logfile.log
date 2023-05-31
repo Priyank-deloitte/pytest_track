@@ -1,0 +1,29 @@
+05/31/2023 11:36:52 AM : INFO : <module> : declared 'id' as global variable
+05/31/2023 11:36:52 AM : INFO : <module> : opening file - 'postData.json'
+05/31/2023 11:36:52 AM : INFO : <module> : reading file - 'postData.json'
+05/31/2023 11:36:52 AM : INFO : <module> : parsing request data into json format
+05/31/2023 11:36:53 AM : INFO : <module> : performing POST method and adding data from - 'postData.json'
+05/31/2023 11:36:53 AM : INFO : <module> : status code : 200
+05/31/2023 11:36:53 AM : INFO : <module> : parsing response data into json format
+05/31/2023 11:36:53 AM : INFO : <module> : fetching the value of 'id' of the newly created data
+05/31/2023 11:36:53 AM : INFO : <module> : asserting with 'name'
+05/31/2023 11:36:53 AM : INFO : <module> : asserting with 'trips'
+05/31/2023 11:36:53 AM : INFO : <module> : opening file - 'putData.json'
+05/31/2023 11:36:53 AM : INFO : <module> : reading file - 'putData.json'
+05/31/2023 11:36:53 AM : INFO : <module> : parsing request data into json format
+05/31/2023 11:36:54 AM : INFO : <module> : performing PUT method and adding data from - 'putData.json'
+05/31/2023 11:36:54 AM : INFO : <module> : status code : 200
+05/31/2023 11:36:54 AM : INFO : <module> : parsing response data into json format
+05/31/2023 11:36:54 AM : INFO : <module> : fetching the value of 'message' of the updated data
+05/31/2023 11:36:54 AM : INFO : <module> : asserting the success message
+05/31/2023 11:36:55 AM : INFO : <module> : getting the response to validate the updated message
+05/31/2023 11:36:55 AM : INFO : <module> : status code : 200
+05/31/2023 11:36:55 AM : INFO : <module> : parsing response data into json format
+05/31/2023 11:36:55 AM : INFO : <module> : asserting with the updated name
+05/31/2023 11:36:56 AM : INFO : <module> : performing DELETE method to delete the details of the mentioned 'id'
+05/31/2023 11:36:56 AM : INFO : <module> : status code : 200
+05/31/2023 11:36:56 AM : INFO : <module> : parsing response data into json format
+05/31/2023 11:36:56 AM : INFO : <module> : fetching the value of 'message' on performing DELETE method
+05/31/2023 11:36:56 AM : INFO : <module> : asserting the success message
+05/31/2023 11:36:57 AM : INFO : <module> : getting the response to validate the whether the user got deleted
+05/31/2023 11:36:57 AM : INFO : <module> : status code : 204
