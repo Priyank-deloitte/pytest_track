@@ -75,3 +75,47 @@ def test_03_get_user_profile():
         log.info("status code : 401")
         assert response_json["message"] == "No authentication token specified in x-auth-token header"
         log.info(e)
+
+
+def test_04_patch_user_profile():
+    file = open('..\\JsonFiles\\updateUserProfile.json', 'r')
+    log.info("opening file - 'updateUserProfile.json'")
+    json_input = file.read()
+    log.info("reading file - 'updateUserProfile.json'")
+    request_json = json.loads(json_input)
+    log.info("parsing request data into json format")
+    response = requests.patch(f"{Data.BASE_URI}/users/profile", request_json, headers={"x-auth-token": authToken})
+    response_json = response.json()
+    log.info("performing PATCH method and updating data from - 'updateUserProfile.json'")
+    try:
+        assert response.status_code == 200
+        log.info("status code : 200")
+        assert response.headers['Content-Type'] == "application/json; charset=utf-8"
+        assert response_json["message"] == "Profile updated successful"
+        log.info("user profile updated successfully")
+    except AssertionError as e:
+        assert response.status_code == 401
+        log.info("status code : 401")
+        assert response_json["message"] == "No authentication token specified in x-auth-token header"
+        log.info(e)
+
+
+def test_05_user_forgot_password():
+    email = {"email": "anderson03789@gmail.com"}
+    log.info(email)
+    response = requests.post(f"{Data.BASE_URI}/users/forgot-password", email)
+    response_json = response.json()
+    try:
+        assert response.status_code == 200
+        log.info(response.status_code)
+        assert response.headers['Content-Type'] == "application/json; charset=utf-8"
+        assert response_json[
+                   "message"] == "Password reset link successfully sent to " + email[
+                   "email"] + ". Please verify by clicking on the given link"
+        log.info(response_json["message"])
+    except AssertionError as e:
+        assert response.status_code == 401
+        log.info(response.status_code)
+        assert response_json["message"] == "No account found with the given email address"
+        log.info(response_json["message"])
+        log.info(e)

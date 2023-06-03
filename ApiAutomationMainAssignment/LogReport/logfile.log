@@ -311,3 +311,384 @@
 06/03/2023 07:13:13 PM : INFO : <module> : GET user profile
 06/03/2023 07:13:13 PM : INFO : <module> : status code : 200
 06/03/2023 07:13:13 PM : INFO : <module> : user profile fetched successfully
+06/04/2023 01:22:09 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 01:22:09 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 01:22:09 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:22:10 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 01:22:10 AM : INFO : <module> : status code : 409
+06/04/2023 01:22:10 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 01:22:10 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 01:22:10 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 01:22:10 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:22:11 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 01:22:11 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'James Anderson', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 01:22:11 AM : INFO : <module> : status code : 200
+06/04/2023 01:22:11 AM : INFO : <module> : user logged in successfully
+06/04/2023 01:22:12 AM : INFO : <module> : GET user profile
+06/04/2023 01:22:12 AM : INFO : <module> : status code : 200
+06/04/2023 01:22:12 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 01:22:12 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 01:22:12 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 01:22:12 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:24:23 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 01:24:23 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 01:24:23 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:24:24 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 01:24:24 AM : INFO : <module> : status code : 409
+06/04/2023 01:24:24 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 01:24:24 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 01:24:24 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 01:24:24 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:24:24 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 01:24:24 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'James Anderson', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 01:24:24 AM : INFO : <module> : status code : 200
+06/04/2023 01:24:24 AM : INFO : <module> : user logged in successfully
+06/04/2023 01:24:25 AM : INFO : <module> : GET user profile
+06/04/2023 01:24:25 AM : INFO : <module> : status code : 200
+06/04/2023 01:24:25 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 01:24:25 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 01:24:25 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 01:24:25 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:24:26 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 01:24:26 AM : INFO : <module> : status code : 200
+06/04/2023 01:25:27 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 01:25:27 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 01:25:27 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:25:28 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 01:25:28 AM : INFO : <module> : status code : 409
+06/04/2023 01:25:28 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 01:25:28 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 01:25:28 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 01:25:28 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:25:29 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 01:25:29 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'Shyama Jaiswal', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 01:25:29 AM : INFO : <module> : status code : 200
+06/04/2023 01:25:29 AM : INFO : <module> : user logged in successfully
+06/04/2023 01:25:29 AM : INFO : <module> : GET user profile
+06/04/2023 01:25:29 AM : INFO : <module> : status code : 200
+06/04/2023 01:25:29 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 01:25:29 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 01:25:29 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 01:25:29 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:25:30 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 01:25:30 AM : INFO : <module> : status code : 200
+06/04/2023 01:26:54 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 01:26:54 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 01:26:54 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:26:54 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 01:26:54 AM : INFO : <module> : status code : 409
+06/04/2023 01:26:54 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 01:26:54 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 01:26:54 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 01:26:54 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:26:55 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 01:26:55 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'Shyama Jaiswal', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 01:26:55 AM : INFO : <module> : status code : 200
+06/04/2023 01:26:55 AM : INFO : <module> : user logged in successfully
+06/04/2023 01:26:56 AM : INFO : <module> : GET user profile
+06/04/2023 01:26:56 AM : INFO : <module> : status code : 200
+06/04/2023 01:26:56 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 01:26:56 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 01:26:56 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 01:26:56 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:26:57 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 01:26:57 AM : INFO : <module> : status code : 200
+06/04/2023 01:26:57 AM : INFO : <module> : status code : 401
+06/04/2023 01:30:22 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 01:30:22 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 01:30:22 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:30:39 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 01:30:39 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 01:30:39 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:30:40 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 01:30:40 AM : INFO : <module> : status code : 409
+06/04/2023 01:30:40 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 01:30:40 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 01:30:40 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 01:30:40 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:30:41 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 01:30:41 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'Shyama Jaiswal', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 01:30:41 AM : INFO : <module> : status code : 200
+06/04/2023 01:30:41 AM : INFO : <module> : user logged in successfully
+06/04/2023 01:30:42 AM : INFO : <module> : GET user profile
+06/04/2023 01:30:42 AM : INFO : <module> : status code : 200
+06/04/2023 01:30:42 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 01:30:42 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 01:30:42 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 01:30:42 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:30:43 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 01:30:43 AM : INFO : <module> : status code : 200
+06/04/2023 01:32:36 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 01:32:36 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 01:32:36 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:32:37 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 01:32:37 AM : INFO : <module> : status code : 409
+06/04/2023 01:32:37 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 01:32:37 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 01:32:37 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 01:32:37 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:32:38 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 01:32:38 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'Shyama Jaiswal', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 01:32:38 AM : INFO : <module> : status code : 200
+06/04/2023 01:32:38 AM : INFO : <module> : user logged in successfully
+06/04/2023 01:32:39 AM : INFO : <module> : GET user profile
+06/04/2023 01:32:39 AM : INFO : <module> : status code : 200
+06/04/2023 01:32:39 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 01:32:39 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 01:32:39 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 01:32:39 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:32:40 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 01:32:40 AM : INFO : <module> : status code : 200
+06/04/2023 01:37:52 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 01:37:52 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 01:37:52 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:37:53 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 01:37:53 AM : INFO : <module> : status code : 409
+06/04/2023 01:37:53 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 01:37:53 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 01:37:53 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 01:37:53 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:37:54 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 01:37:54 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'Shyama Jaiswal', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 01:37:54 AM : INFO : <module> : status code : 200
+06/04/2023 01:37:54 AM : INFO : <module> : user logged in successfully
+06/04/2023 01:37:55 AM : INFO : <module> : GET user profile
+06/04/2023 01:37:55 AM : INFO : <module> : status code : 200
+06/04/2023 01:37:55 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 01:37:55 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 01:37:55 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 01:37:55 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:37:56 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 01:37:56 AM : INFO : <module> : status code : 200
+06/04/2023 01:39:19 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 01:39:19 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 01:39:19 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:39:20 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 01:39:20 AM : INFO : <module> : status code : 409
+06/04/2023 01:39:20 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 01:39:20 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 01:39:20 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 01:39:20 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:39:21 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 01:39:21 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'Shyama Jaiswal', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 01:39:21 AM : INFO : <module> : status code : 200
+06/04/2023 01:39:21 AM : INFO : <module> : user logged in successfully
+06/04/2023 01:39:22 AM : INFO : <module> : GET user profile
+06/04/2023 01:39:22 AM : INFO : <module> : status code : 200
+06/04/2023 01:39:22 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 01:39:22 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 01:39:22 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 01:39:22 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:39:23 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 01:39:23 AM : INFO : <module> : status code : 200
+06/04/2023 01:39:23 AM : INFO : <module> : status code : 401
+06/04/2023 01:39:23 AM : INFO : <module> : assert 'Profile updated successful' == 'Profile successful'
+  - Profile successful
+  + Profile updated successful
+  ?        ++++++++
+06/04/2023 01:41:03 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 01:41:03 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 01:41:03 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:41:04 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 01:41:04 AM : INFO : <module> : status code : 409
+06/04/2023 01:41:04 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 01:41:04 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 01:41:04 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 01:41:04 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:41:04 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 01:41:04 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'Shyama Jaiswal', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 01:41:04 AM : INFO : <module> : status code : 200
+06/04/2023 01:41:04 AM : INFO : <module> : user logged in successfully
+06/04/2023 01:41:05 AM : INFO : <module> : GET user profile
+06/04/2023 01:41:05 AM : INFO : <module> : status code : 200
+06/04/2023 01:41:05 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 01:41:05 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 01:41:05 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 01:41:05 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:41:06 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 01:41:06 AM : INFO : <module> : status code : 200
+06/04/2023 01:41:06 AM : INFO : <module> : user profile updated successfully
+06/04/2023 01:59:23 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 01:59:23 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 01:59:23 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:59:25 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 01:59:25 AM : INFO : <module> : status code : 409
+06/04/2023 01:59:25 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 01:59:25 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 01:59:25 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 01:59:25 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:59:26 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 01:59:26 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'Shyama Jaiswal', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 01:59:26 AM : INFO : <module> : status code : 200
+06/04/2023 01:59:26 AM : INFO : <module> : user logged in successfully
+06/04/2023 01:59:27 AM : INFO : <module> : GET user profile
+06/04/2023 01:59:27 AM : INFO : <module> : status code : 200
+06/04/2023 01:59:27 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 01:59:27 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 01:59:27 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 01:59:27 AM : INFO : <module> : parsing request data into json format
+06/04/2023 01:59:28 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 01:59:28 AM : INFO : <module> : status code : 200
+06/04/2023 01:59:28 AM : INFO : <module> : user profile updated successfully
+06/04/2023 02:10:24 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 02:10:24 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 02:10:24 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:10:25 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 02:10:25 AM : INFO : <module> : status code : 409
+06/04/2023 02:10:25 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 02:10:25 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 02:10:25 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 02:10:25 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:10:26 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 02:10:26 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'Shyama Jaiswal', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 02:10:26 AM : INFO : <module> : status code : 200
+06/04/2023 02:10:26 AM : INFO : <module> : user logged in successfully
+06/04/2023 02:10:27 AM : INFO : <module> : GET user profile
+06/04/2023 02:10:27 AM : INFO : <module> : status code : 200
+06/04/2023 02:10:27 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 02:10:27 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 02:10:27 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 02:10:27 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:10:28 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 02:10:28 AM : INFO : <module> : status code : 200
+06/04/2023 02:10:28 AM : INFO : <module> : user profile updated successfully
+06/04/2023 02:13:42 AM : INFO : <module> : {
+  "email": "anderson03@gmail.com"
+}
+06/04/2023 02:22:33 AM : INFO : <module> : opening file - 'resetPasswordEmail.json'
+06/04/2023 02:22:33 AM : INFO : <module> : reading file - 'resetPasswordEmail.json'
+06/04/2023 02:22:33 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:24:20 AM : INFO : <module> : {
+  "email": "anderson03@gmail.com"
+}
+06/04/2023 02:25:17 AM : INFO : <module> : {
+  "email": "anderson03@gmail.com"
+}
+06/04/2023 02:25:17 AM : INFO : <module> : 400
+06/04/2023 02:26:11 AM : INFO : <module> : {
+  "email": "anderson03@gmail.com"
+}
+06/04/2023 02:26:12 AM : INFO : <module> : 400
+06/04/2023 02:26:47 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 02:26:47 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 02:26:47 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:26:48 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 02:26:48 AM : INFO : <module> : status code : 409
+06/04/2023 02:26:48 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 02:26:48 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 02:26:48 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 02:26:48 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:26:49 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 02:26:49 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'Shyama Jaiswal', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 02:26:49 AM : INFO : <module> : status code : 200
+06/04/2023 02:26:49 AM : INFO : <module> : user logged in successfully
+06/04/2023 02:26:49 AM : INFO : <module> : GET user profile
+06/04/2023 02:26:49 AM : INFO : <module> : status code : 200
+06/04/2023 02:26:49 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 02:26:49 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 02:26:49 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 02:26:49 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:26:50 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 02:26:50 AM : INFO : <module> : status code : 200
+06/04/2023 02:26:50 AM : INFO : <module> : user profile updated successfully
+06/04/2023 02:26:50 AM : INFO : <module> : {
+  "email": "anderson03@gmail.com"
+}
+06/04/2023 02:26:51 AM : INFO : <module> : 400
+06/04/2023 02:28:45 AM : INFO : <module> : {
+  "email": "anderson03@gmail.com"
+}
+06/04/2023 02:28:46 AM : INFO : <module> : 400
+06/04/2023 02:29:11 AM : INFO : <module> : {'email': 'anderson03@gmail.com'}
+06/04/2023 02:29:13 AM : INFO : <module> : 200
+06/04/2023 02:29:45 AM : INFO : <module> : {'email': 'anderson03@gmail.com'}
+06/04/2023 02:29:47 AM : INFO : <module> : 200
+06/04/2023 02:29:47 AM : INFO : <module> : 200
+06/04/2023 02:31:02 AM : INFO : <module> : {'email': 'anderson03@gmail.com'}
+06/04/2023 02:31:03 AM : INFO : <module> : 200
+06/04/2023 02:31:03 AM : INFO : <module> : 200
+06/04/2023 02:33:35 AM : INFO : <module> : {'email': 'anderson03@gmail.com'}
+06/04/2023 02:33:36 AM : INFO : <module> : 200
+06/04/2023 02:33:36 AM : INFO : <module> : yha pe error hai
+06/04/2023 02:33:36 AM : INFO : <module> : 200
+06/04/2023 02:33:36 AM : INFO : <module> : Password reset link successfully sent to anderson03@gmail.com. Please verify by clicking on the given link
+06/04/2023 02:33:36 AM : INFO : <module> : assert 'Password reset link successfully sent to anderson03@gmail.com. Please verify by clicking on the given link' == 'Password reset link successfully sent to anderson03@gmail.com. Please verify by clicking on the given link '
+  - Password reset link successfully sent to anderson03@gmail.com. Please verify by clicking on the given link 
+  ?                                                                                                           -
+  + Password reset link successfully sent to anderson03@gmail.com. Please verify by clicking on the given link
+06/04/2023 02:35:20 AM : INFO : <module> : {'email': 'anderson03@gmail.com'}
+06/04/2023 02:35:22 AM : INFO : <module> : 200
+06/04/2023 02:35:22 AM : INFO : <module> : Password reset link successfully sent to anderson03@gmail.com. Please verify by clicking on the given link
+06/04/2023 02:36:36 AM : INFO : <module> : {'email': 'anderson03789@gmail.com'}
+06/04/2023 02:36:37 AM : INFO : <module> : 401
+06/04/2023 02:36:37 AM : INFO : <module> : No account found with the given email address
+06/04/2023 02:36:37 AM : INFO : <module> : assert 401 == 200
+ +  where 401 = <Response [401]>.status_code
+06/04/2023 02:37:24 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 02:37:24 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 02:37:24 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:37:24 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 02:37:24 AM : INFO : <module> : status code : 409
+06/04/2023 02:37:24 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 02:37:24 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 02:37:24 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 02:37:24 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:37:25 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 02:37:25 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'Shyama Jaiswal', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 02:37:25 AM : INFO : <module> : status code : 200
+06/04/2023 02:37:25 AM : INFO : <module> : user logged in successfully
+06/04/2023 02:37:26 AM : INFO : <module> : GET user profile
+06/04/2023 02:37:26 AM : INFO : <module> : status code : 200
+06/04/2023 02:37:26 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 02:37:26 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 02:37:26 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 02:37:26 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:37:27 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 02:37:27 AM : INFO : <module> : status code : 200
+06/04/2023 02:37:27 AM : INFO : <module> : user profile updated successfully
+06/04/2023 02:37:27 AM : INFO : <module> : {'email': 'anderson03789@gmail.com'}
+06/04/2023 02:37:28 AM : INFO : <module> : 401
+06/04/2023 02:37:28 AM : INFO : <module> : No account found with the given email address
+06/04/2023 02:37:28 AM : INFO : <module> : assert 401 == 200
+ +  where 401 = <Response [401]>.status_code
+06/04/2023 02:38:33 AM : INFO : <module> : opening file - 'registerNewUser.json'
+06/04/2023 02:38:33 AM : INFO : <module> : reading file - 'registerNewUser.json'
+06/04/2023 02:38:33 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:38:33 AM : INFO : <module> : performing POST method and adding data from - 'registerNewUser.json'
+06/04/2023 02:38:33 AM : INFO : <module> : status code : 409
+06/04/2023 02:38:33 AM : INFO : <module> : assert 409 == 201
+ +  where 409 = <Response [409]>.status_code
+06/04/2023 02:38:33 AM : INFO : <module> : opening file - 'loginUser.json'
+06/04/2023 02:38:33 AM : INFO : <module> : reading file - 'loginUser.json'
+06/04/2023 02:38:33 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:38:34 AM : INFO : <module> : performing POST method and adding data from - 'loginUser.json'
+06/04/2023 02:38:34 AM : INFO : <module> : {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647b4318f7aee70211fc36ad', 'name': 'Shyama Jaiswal', 'email': 'anderson03@gmail.com', 'token': '4b698dbaa7644730b13a6dbb55bec047d78078daa1bf45b4a2f02d17e7c4f887'}}
+06/04/2023 02:38:34 AM : INFO : <module> : status code : 200
+06/04/2023 02:38:34 AM : INFO : <module> : user logged in successfully
+06/04/2023 02:38:35 AM : INFO : <module> : GET user profile
+06/04/2023 02:38:35 AM : INFO : <module> : status code : 200
+06/04/2023 02:38:35 AM : INFO : <module> : user profile fetched successfully
+06/04/2023 02:38:35 AM : INFO : <module> : opening file - 'updateUserProfile.json'
+06/04/2023 02:38:35 AM : INFO : <module> : reading file - 'updateUserProfile.json'
+06/04/2023 02:38:35 AM : INFO : <module> : parsing request data into json format
+06/04/2023 02:38:36 AM : INFO : <module> : performing PATCH method and updating data from - 'updateUserProfile.json'
+06/04/2023 02:38:36 AM : INFO : <module> : status code : 200
+06/04/2023 02:38:36 AM : INFO : <module> : user profile updated successfully
+06/04/2023 02:38:36 AM : INFO : <module> : {'email': 'anderson03789@gmail.com'}
+06/04/2023 02:38:36 AM : INFO : <module> : 401
+06/04/2023 02:38:36 AM : INFO : <module> : No account found with the given email address
+06/04/2023 02:38:36 AM : INFO : <module> : assert 401 == 200
+ +  where 401 = <Response [401]>.status_code
