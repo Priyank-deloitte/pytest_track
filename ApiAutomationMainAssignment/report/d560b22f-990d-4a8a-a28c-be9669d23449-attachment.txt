@@ -1,0 +1,5 @@
+[32mINFO    [0m <module>:test_Users.py:165 200
+[32mINFO    [0m <module>:test_Users.py:166 logged in successfully
+[32mINFO    [0m <module>:test_Users.py:169 af2bd727dc3d424db24e7ed56da839eea020c9d27db8499fb02f29a37f23f091
+[32mINFO    [0m <module>:test_Users.py:174 200
+[32mINFO    [0m <module>:test_Users.py:177 Account successfully deleted

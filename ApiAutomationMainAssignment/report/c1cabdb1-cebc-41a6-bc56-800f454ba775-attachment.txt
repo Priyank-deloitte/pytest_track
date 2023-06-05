@@ -1,0 +1,2 @@
+[32mINFO    [0m <module>:test_Users.py:152 200
+[32mINFO    [0m <module>:test_Users.py:155 User has been successfully logged out

@@ -1,0 +1,2 @@
+[32mINFO    [0m <module>:test_Notes.py:37 200
+[32mINFO    [0m <module>:test_Notes.py:40 Note successfully created

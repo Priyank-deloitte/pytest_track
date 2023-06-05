@@ -1,0 +1,6 @@
+[32mINFO    [0m <module>:test_Users.py:86 opening file - 'updateUserProfile.json'
+[32mINFO    [0m <module>:test_Users.py:88 reading file - 'updateUserProfile.json'
+[32mINFO    [0m <module>:test_Users.py:90 parsing request data into json format
+[32mINFO    [0m <module>:test_Users.py:93 performing PATCH method and updating data from - 'updateUserProfile.json'
+[32mINFO    [0m <module>:test_Users.py:96 status code : 200
+[32mINFO    [0m <module>:test_Users.py:99 user profile updated successfully

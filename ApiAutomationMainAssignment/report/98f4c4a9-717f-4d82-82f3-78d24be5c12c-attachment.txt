@@ -1,0 +1,7 @@
+[32mINFO    [0m <module>:test_Users.py:39 opening file - 'loginUser.json'
+[32mINFO    [0m <module>:test_Users.py:41 reading file - 'loginUser.json'
+[32mINFO    [0m <module>:test_Users.py:43 parsing request data into json format
+[32mINFO    [0m <module>:test_Users.py:52 performing POST method and adding data from - 'loginUser.json'
+[32mINFO    [0m <module>:test_Users.py:53 {'success': True, 'status': 200, 'message': 'Login successful', 'data': {'id': '647d881b61d36c0211d6d501', 'name': 'James Anderson', 'email': 'anderson03@gmail.com', 'token': 'ca7c69b663874e669394050fa3094f0d1f2084d00f1742d08386d5913f8fb007'}}
+[32mINFO    [0m <module>:test_Users.py:56 status code : 200
+[32mINFO    [0m <module>:test_Users.py:59 user logged in successfully

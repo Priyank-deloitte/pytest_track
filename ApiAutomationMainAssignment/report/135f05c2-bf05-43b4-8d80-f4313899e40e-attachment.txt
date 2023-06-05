@@ -1,0 +1,6 @@
+[32mINFO    [0m <module>:test_Users.py:15 opening file - 'registerNewUser.json'
+[32mINFO    [0m <module>:test_Users.py:17 reading file - 'registerNewUser.json'
+[32mINFO    [0m <module>:test_Users.py:19 parsing request data into json format
+[32mINFO    [0m <module>:test_Users.py:22 performing POST method and adding data from - 'registerNewUser.json'
+[32mINFO    [0m <module>:test_Users.py:25 status code : 201
+[32mINFO    [0m <module>:test_Users.py:28 user account created successfully

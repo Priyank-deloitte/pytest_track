@@ -1,0 +1,3 @@
+[32mINFO    [0m <module>:test_Notes.py:67 getting note by id: 647d889561d36c0211d6d528
+[32mINFO    [0m <module>:test_Notes.py:72 200
+[32mINFO    [0m <module>:test_Notes.py:75 Note successfully retrieved

@@ -1,0 +1,3 @@
+[32mINFO    [0m <module>:test_Notes.py:49 getting all notes
+[32mINFO    [0m <module>:test_Notes.py:54 200
+[32mINFO    [0m <module>:test_Notes.py:57 Notes successfully retrieved
