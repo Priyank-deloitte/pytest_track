@@ -1,5 +1,6 @@
 import json
 
+import pytest
 import requests
 import allure
 from Config.config import Data
@@ -11,6 +12,7 @@ log = log_class.custom_logger()
 @allure.severity(allure.severity_level.NORMAL)
 class Test_Health_API:
     @allure.feature("Health")
+    @pytest.mark.sanity
     def test_01_get_health_check(self):
         response = requests.get(f"{Data.BASE_URI}/health-check")
         log.info("getting checked API is running fine")

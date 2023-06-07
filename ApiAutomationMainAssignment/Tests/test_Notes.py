@@ -1,4 +1,6 @@
 import json
+
+import pytest
 import requests
 import allure
 from Config.config import Data
@@ -10,6 +12,7 @@ log = log_class.custom_logger()
 @allure.severity(allure.severity_level.CRITICAL)
 class Test_Notes_API:
     @allure.feature("Login")
+    @pytest.mark.sanity
     def test_01_login_user(self):
         global authToken
         login_data = {"email": "priyank1369@gmail.com", "password": "Pass@123"}

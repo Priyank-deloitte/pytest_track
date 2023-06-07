@@ -1,4 +1,6 @@
 import json
+
+import pytest
 import requests
 import allure
 from Config.config import Data
@@ -10,6 +12,7 @@ log = log_class.custom_logger()
 @allure.severity(allure.severity_level.CRITICAL)
 class Test_Users_API:
     @allure.feature("Registration")
+    @pytest.mark.sanity
     def test_01_post_register_new_user(self):
         file = open('..\\JsonFiles\\registerNewUser.json', 'r')
         log.info("opening file - 'registerNewUser.json'")
